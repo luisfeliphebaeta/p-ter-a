@@ -1,0 +1,29 @@
+﻿
+#cor {
+
+    width: 100px;
+    height: 100px;
+  
+    
+}
+#inputs{
+    margin:20px;
+    padding:10px;
+ 
+}
+#red {
+    background: red;
+    border: solid 1px black;
+    
+}
+
+#green {
+    background: green;
+    border: solid 1px black;
+ 
+}
+
+#blue {
+    background: blue;
+    border: solid 1px black;
+}
